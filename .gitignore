@@ -1,0 +1,10 @@
+/.idea
+# Config and Htaccess Files
+/.htaccess
+/config.php
+/admin/config.php
+/image
+/oc_mod
+/storage
+!/storage/vendor/*
+/twitter
